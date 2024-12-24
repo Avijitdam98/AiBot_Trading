@@ -1,0 +1,9 @@
+flask==3.0.0
+yfinance==0.2.33
+pandas==2.1.4
+plotly==5.18.0
+numpy==1.26.2
+matplotlib==3.8.2
+backtrader==1.9.78.123
+seaborn==0.13.0
+streamlit==1.29.0
